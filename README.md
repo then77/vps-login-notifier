@@ -1,5 +1,5 @@
-<h1 align="center">VPS Login Notifier</h1>
-<p align="center">Let you get notified when someone logged in to your vps!</p>
+<h1 align="center"><img src="https://raw.githubusercontent.com/then77/vps-login-notifier/main/vpsloginlogo.png" alt="VPS Login Notifier"></h1>
+<h4 align="center">Let you get notified when someone logged in to your vps!</p>
 
 ## What is this?
 This is a script that can let you know when someone logged in to your linux system via ssh. Mainly used on vps.<br>
