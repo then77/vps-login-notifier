@@ -2,7 +2,7 @@
 <h4 align="center">Let you get notified when someone logged in to your vps!</p>
 
 ## What is this?
-This is a script that can let you know when someone logged in to your linux system via ssh. Mainly used on vps.<br>
+This is a basic consept of code that can let you know when someone logged in to your linux system via ssh.<br>
 This will let you get notified everytime someone is logged in.
 
 ## Installation
